@@ -5,6 +5,8 @@ def split_comma(string):
         'second_half':split_list[1]
         }
 
+        
+
 if __name__ == '__main__':
     my_dictionary = {
         'fav_food': 'yogurt',
